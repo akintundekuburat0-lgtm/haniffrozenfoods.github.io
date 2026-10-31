@@ -37,7 +37,7 @@
     <div class="card"><img src="chicken-wings.jpg"><div class="card-body"><h3>Chicken Wings</h3></div></div>
     <div class="card"><img src="turkey-wings.jpg"><div class="card-body"><h3>Turkey Wings</h3></div></div>
     <div class="card"><img src="titus.jpg"><div class="card-body"><h3>Titus Fish</h3></div></div>
-    <div class="card"><img src="https://images.unsplash.com/photo-1585937421612-70a008356c36?w=500" alt="Gizzard"><div class="card-body"><h3>Chicken Gizzards</h3></div></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1585937421612-70a008356c36?w=500"
      alt="Turkey Fingers"><div class="card-body"><h3>Turkey Fingers</h3></div></div>
   </div>
   <div class="contact">
